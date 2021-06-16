@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f576caca-2d5b-4c35-9f4e-c250f2d0997b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1tnZTckEQJrufM0IteGiobObuMv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Python PR\Homework\shop\mainapp" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="shop" type="Python.DjangoServer" factoryName="Django server">
+      <module name="shop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f576caca-2d5b-4c35-9f4e-c250f2d0997b" name="Default Changelist" comment="" />
+      <created>1623406822971</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623406822971</updated>
+      <workItem from="1623406895477" duration="1676000" />
+      <workItem from="1623408601204" duration="1566000" />
+      <workItem from="1623410191870" duration="771000" />
+      <workItem from="1623410984502" duration="1155000" />
+      <workItem from="1623412174001" duration="1421000" />
+      <workItem from="1623413617181" duration="751000" />
+      <workItem from="1623414407697" duration="882000" />
+      <workItem from="1623493016943" duration="1002000" />
+      <workItem from="1623494040372" duration="1303000" />
+      <workItem from="1623495859111" duration="507000" />
+      <workItem from="1623496385918" duration="501000" />
+      <workItem from="1623496906926" duration="527000" />
+      <workItem from="1623497453492" duration="986000" />
+      <workItem from="1623498464351" duration="867000" />
+      <workItem from="1623499359906" duration="2568000" />
+      <workItem from="1623595501944" duration="690000" />
+      <workItem from="1623596286955" duration="1781000" />
+      <workItem from="1623598098409" duration="1330000" />
+      <workItem from="1623599457334" duration="1780000" />
+      <workItem from="1623601268377" duration="1785000" />
+      <workItem from="1623603086202" duration="79000" />
+      <workItem from="1623664751585" duration="1284000" />
+      <workItem from="1623666062399" duration="264000" />
+      <workItem from="1623666343657" duration="379000" />
+      <workItem from="1623666739969" duration="1244000" />
+      <workItem from="1623668009540" duration="1782000" />
+      <workItem from="1623669819791" duration="1757000" />
+      <workItem from="1623671608728" duration="1786000" />
+      <workItem from="1623673465101" duration="681000" />
+      <workItem from="1623766129759" duration="1337000" />
+      <workItem from="1623767501471" duration="1777000" />
+      <workItem from="1623769326589" duration="1773000" />
+      <workItem from="1623771137469" duration="1957000" />
+      <workItem from="1623773127963" duration="609000" />
+      <workItem from="1623846490727" duration="414000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mainapp/migrations/0004_auto_20210615_1724.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
